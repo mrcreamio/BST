@@ -1,2 +1,2 @@
 # BST
-binary Search tr.
+binary Search tree
