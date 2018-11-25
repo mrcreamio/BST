@@ -1,3 +1,3 @@
 # BST
-binary Search tree
+binary Search tree <br>
 LOT means level order traversal
